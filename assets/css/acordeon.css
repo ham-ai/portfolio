@@ -35,7 +35,7 @@
     height: 2rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url('/assets/img/arrow-up.svg');
+    background-image: url('../img/arrow-up.svg');
     transition: .25s;
 }
 
