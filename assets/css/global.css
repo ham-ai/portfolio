@@ -13,7 +13,7 @@
 
 .main::before{
     content: '';
-    background-image: url('../img/background.svg');
+    background-image: url('../img/icons/background.svg');
     background-size: contain;
     background-repeat: no-repeat;
     display: inline-block;
@@ -27,7 +27,7 @@
 
 .main::after{
     content: '';
-    background-image: url('../img/background.svg');
+    background-image: url('../img/icons/background.svg');
     background-size: contain;
     background-repeat: no-repeat;
     display: inline-block;
